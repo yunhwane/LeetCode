@@ -1,7 +1,7 @@
 Q https://leetcode.com/problems/height-checker/submissions/1217184912/
 
 
-```
+```java
 class Solution {
     public int heightChecker(int[] heights) {
 

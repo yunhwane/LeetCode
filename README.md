@@ -1,2 +1,2 @@
 # LeetCode
-Repository for recording Leetcode Algorithm problem solving
+Repository for recording Leetcode and backjoon Algorithm problem solving
